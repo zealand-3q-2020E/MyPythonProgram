@@ -43,4 +43,4 @@ while True:
     break
   
 print("sangen er: " + sang)
-sense.show_message(sang)
+
